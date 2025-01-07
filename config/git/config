@@ -4,3 +4,5 @@
 	path = ~/.config/git/config.local
 [commit]
 	gpgsign = true
+[alias]
+    st = status
